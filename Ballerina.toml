@@ -1,0 +1,7 @@
+[project]
+org-name = "sandalukalpanee"
+version = "1.0.0"
+license = ["Apache-2.0"]
+authors = ["Sandalu Kalpanee"]
+repository = "https://github.com/sandalu95/twitter-connect"
+keywords = ["ballerina", "twitter", "connector", "integration"]
